@@ -1077,7 +1077,6 @@
 0.0.0.0 fbbusinespanel.com
 0.0.0.0 fbbusinesspanel.com
 0.0.0.0 fbcallback.wechat.com
-0.0.0.0 fbcdn-*.akamaihd.net
 0.0.0.0 fbcdn-profile-a.akamaihd.net
 0.0.0.0 fbcdn.com
 0.0.0.0 fbcdn.net
