@@ -1,0 +1,41 @@
+# mylglist.txt
+# 2022.02.13
+#
+01.static-maxdome.de
+# cname 01.static-mxdcloud.de
+03.static-maxdome.de
+de-ad-lgsmartad-com.aws-prd.net
+de-ibs-lgappstv-com.aws-prd.net
+de-info-lgsmartad-com.aws-prd.net
+de-lgrecommends-lgappstv-com.aws-prd.net
+de-lgtvsdp-com.aws-prd.net
+de.ad.lgsmartad.com
+# cname de-ad-lgsmartad-com.aws-prd.net
+de.ibs.lgappstv.com
+# cname de-ibs-lgappstv-com.aws-prd.net
+de.info.lgsmartad.com
+# cname de-info-lgsmartad-com.aws-prd.net
+de.lgrecommends.lgappstv.com
+# cname de-lgrecommends-lgappstv-com.aws-prd.net
+de.lgtvsdp.com
+# cname de-lgtvsdp-com.aws-prd.net
+de.tvsdp.lgeapi.com
+# cname eicip.tvsdp.lgeapi.com
+e2425.d.akamaiedge.net
+eicip.tvsdp.lgeapi.com
+gfts.lge.com
+# cname gfts.lge.com.edgekey.net
+lgad.cjpowercast.com.edgesuite.neti
+# cname a1017.w10.akamai.net
+lge.com
+lge.com.edgekey.net
+lgtvonline-lge-com-gslb.aws-prd.net
+lgtvonline.lge.com
+# cname lgtvonline-lge-com-gslb.aws-prd.net
+ngfts.lge.com
+# cname ngfts.lge.com.edgekey.net
+ngfts.lge.com.edgekey.net
+# cname e2425.d.akamaiedge.net
+snu.lge.com
+static-maxdome.de
+
